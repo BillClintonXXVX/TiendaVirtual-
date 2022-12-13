@@ -27,10 +27,15 @@
 
 		
 		<main>
+			
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-5 col-md-5 col-sm-12">
-						<h1>Detalles de pago</h1>
+						<br>
+						<h1 id="texto">
+                        <span id="text"></span> DETALLES DE PAGO
+                        </h1>
+						<br>
 						<div lcass="row">
 							<div class="col-10">
 								<div id="paypal-button-container"></div>
@@ -51,7 +56,7 @@
 				</div>
 			</div>
 		</main>
-			
+
 		<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
 		
 		<script>
