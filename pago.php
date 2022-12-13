@@ -118,7 +118,7 @@
 				
 				onApprove: function(data, actions) {
 					
-					let url = '.php';
+					let url = 'carrito.php';
 					actions.order.capture().then(function(details) {
 						
 						console.log(details);
