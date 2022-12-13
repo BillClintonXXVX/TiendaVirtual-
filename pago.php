@@ -27,12 +27,10 @@
 		
 		<main>
 			<div class="container">
-				
-				
-				
+			
 				<div class="row">
 					<div class="col-lg-5 col-md-5 col-sm-12">
-						<h4>Detalles de pago</h4>
+						<h1>Detalles de pago</h1>
 						<div lcass="row">
 							<div class="col-10">
 								<div id="paypal-button-container"></div>
@@ -48,16 +46,6 @@
 					
 					<div class="col-lg-7 col-md-7 col-sm-12">
 						<div class="table-responsive">
-							<table class="table">
-								<thead>
-									<tr>
-										<th>Producto</th>
-										<th>Subtotal</th>
-										<th></th>
-									</tr>
-								</thead>
-								
-							</table>
 						</div>
 					</div>
 				</div>
