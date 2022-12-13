@@ -74,7 +74,7 @@ require_once "config/config.php";
     <!-- Footer-->
     <footer class="py-5 bg-dark">
         <div class="container">
-            <p class="m-0 text-center text-white">Online &copy; NovaTec-2022</p>
+            <p class="m-0 text-center text-white">Online &copy; Tecno-Group-2022</p>
         </div>
     </footer>
     <!-- Bootstrap core JS-->

@@ -118,7 +118,7 @@
 				
 				onApprove: function(data, actions) {
 					
-					let url = 'clases/captura.php';
+					let url = '.php';
 					actions.order.capture().then(function(details) {
 						
 						console.log(details);
