@@ -65,6 +65,7 @@ require_once "config/config.php";
                     <h4>Total a Pagar: <span id="total_pagar">0.00</span></h4>
                     <div class="d-grid gap-2">
                         <div id="paypal-button-container"></div>
+                        <a href="pago.php" class="btn btn-primary btn-lg">Realizar pago</a>
                         <button class="btn btn-warning" type="button" id="btnVaciar">Vaciar Carrito</button>
                     </div>
                 </div>
